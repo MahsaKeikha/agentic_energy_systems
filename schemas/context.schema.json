@@ -1,0 +1,1 @@
+{"type":"object","properties":{"objective":{"type":"string"},"assumptions":{"type":"array"}},"required":["objective"]}
